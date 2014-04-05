@@ -1,6 +1,6 @@
 #	ostring
 
-ostring is a simple lib help convert Object into String and vice versa
+ostring is a simple java lib help convert Object into String and vice versa
 
 ##	Usage
 	
